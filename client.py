@@ -1,7 +1,7 @@
 import requests
 
 # POST
-# data = requests.post('http://127.0.0.1:5000/advert/', json={'title': '9', 'username': '91', 'content': '19'})
+# data = requests.post('http://127.0.0.1:5000/advert/', json={'title': '22', 'username': '22', 'content': '22'})
 # print(data.status_code)
 # print(data.text)
 
@@ -19,7 +19,7 @@ print(data.text)
 
 # DELETE
 
-# data = requests.delete('http://127.0.0.1:5000/advert/1/')
+# data = requests.delete('http://127.0.0.1:5000/advert/9/')
 # print(data.status_code)
 # print(data.text)
 
